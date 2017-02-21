@@ -5,7 +5,7 @@
   "author": "Eduardo Hidalgo H <eduhhg@gmail.com>",
   "homepage": "https://babeljs.io/",
   "license": "MIT",
-  "repository": "https://github.com/babel/babel/tree/master/packages/babel-preset-es2015",
+  "repository": "https://github.com/gigigo-html5/babel-preset-es2015-ng-compat",
   "main": "index.js",
   "dependencies": {
     "babel-plugin-check-es2015-constants": "^6.22.0",
